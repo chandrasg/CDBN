@@ -9,5 +9,5 @@ Begin with test_mainCode.m
 The parameters are all set in this file. The visualisations for Layer 1 and Layer 2 are added in the code folders. These were obtained by the parameters (in the neighbourhood) of those mentioned in this script. 
 
 Layer1_Visualization
-![alt tag](https://www.dropbox.com/s/1zhyd9mgtr13u9y/Layer1_Visualization.png?dl=0)
-![alt tag](https://www.dropbox.com/s/vi42zgukpyleqt7/Layer2_Visualization.png?dl=0)
+https://www.dropbox.com/s/1zhyd9mgtr13u9y/Layer1_Visualization.png?dl=0
+https://www.dropbox.com/s/vi42zgukpyleqt7/Layer2_Visualization.png?dl=0
